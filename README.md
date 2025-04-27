@@ -10,6 +10,8 @@ The diagram below illustrates a typical microservices setup:
 
 ![Alt text](https://drive.google.com/drive/u/1/folders/1zmsn4nYX1N7uWWQuVcYr7qrR4IXxEWsw "a title")
 
+[![App Platorm](https://drive.google.com/drive/u/1/folders/1zmsn4nYX1N7uWWQuVcYr7qrR4IXxEWsw)
+(https://www.digitalocean.com/products/app-platform)
 
 ### Diagram Breakdown
 - **Ingress (NGINX)**: Handles incoming traffic and routes it to the appropriate backend services via load balancing.
