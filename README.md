@@ -8,7 +8,7 @@ The diagram below illustrates a typical microservices setup:
 
 ![Microservices Architecture Diagram]
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://drive.google.com/drive/u/1/folders/1zmsn4nYX1N7uWWQuVcYr7qrR4IXxEWsw "a title")
 
 
 ### Diagram Breakdown
