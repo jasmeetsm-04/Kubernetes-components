@@ -1,4 +1,3 @@
-# Kubernetes-components
 # Understanding Microservices Architecture
 
 Microservices architecture is a design approach where an application is built as a collection of small, independent services that communicate over a network. Each service focuses on a specific function, can be developed, deployed, and scaled independently, and typically runs in its own process. This architecture contrasts with monolithic applications, where all components are tightly coupled and run as a single unit.
@@ -7,7 +6,7 @@ Microservices architecture is a design approach where an application is built as
 
 The diagram below illustrates a typical microservices setup:
 
-![Microservices Architecture Diagram](attachment://microservices-diagram.png)
+![Microservices Architecture Diagram](https://drive.google.com/uc?id=1kFTrOb2mwRAhCy-cHAXYRE7p0u90BneW)
 
 ### Diagram Breakdown
 - **Ingress (NGINX)**: Handles incoming traffic and routes it to the appropriate backend services via load balancing.
