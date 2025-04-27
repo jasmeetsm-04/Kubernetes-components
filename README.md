@@ -6,8 +6,11 @@ Microservices architecture is a design approach where an application is built as
 
 The diagram below illustrates a typical microservices setup:
 
-![Microservices Architecture Diagram] 
-[alt text](https://drive.google.com/drive/u/1/folders/1zmsn4nYX1N7uWWQuVcYr7qrR4IXxEWsw)
+![Microservices Architecture Diagram]
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
+
 ### Diagram Breakdown
 - **Ingress (NGINX)**: Handles incoming traffic and routes it to the appropriate backend services via load balancing.
 - **Backend Services**: Independent microservices that handle specific functionalities, interacting with databases or object storage as needed.
